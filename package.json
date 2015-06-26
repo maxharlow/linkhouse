@@ -1,0 +1,11 @@
+{
+  "name": "linkhouse",
+  "dependencies": {
+    "node-neo4j": "2.0.x",
+    "highland": "2.0.x",
+    "request": "2.44.x"
+  },
+  "scripts": {
+    "start": "node linkhouse"
+  }
+}

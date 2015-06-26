@@ -1,0 +1,7 @@
+{
+    "neo4j": {
+	"username": "neo4j",
+	"password": "neo4j"
+    },
+    "companiesHouseKey": ""
+}
